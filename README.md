@@ -2,7 +2,7 @@
 
 ### About
 
-This is a toy example demonstrating ZIO's ZLayer functionality.
+This is a toy example demonstrating Scala [ZIO](https://github.com/zio/zio)'s [ZLayer](https://github.com/zio/zio/blob/master/core/shared/src/main/scala/zio/ZLayer.scala) functionality.
 
 The code doesn't respect the "module pattern" used in ZIO's code source and uses some alternative code structuration
 pattern instead.
